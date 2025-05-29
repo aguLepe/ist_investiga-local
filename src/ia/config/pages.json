@@ -1,0 +1,58 @@
+{
+    "pages": [
+        {
+            "id": 11,
+            "type": "input",
+            "question": "",
+            "key": "p1",
+            "next_page": 12
+        },
+        {
+            "id": 12,
+            "type": "question",
+            "prompt_key": "investiga1",
+            "key": "p2",
+            "next_page": 13
+        },
+        {
+            "id": 13,
+            "type": "question",
+            "prompt_key": "investiga2",
+            "key": "p3",
+            "next_page": 14
+        },
+        {
+            "id": 14,
+            "type": "question",
+            "prompt_key": "investiga3",
+            "key": "p4",
+            "next_page": 18
+        },
+        {
+            "id": 15,
+            "type": "question",
+            "prompt_key": "investiga3",
+            "key": "p5",
+            "next_page": 18
+        },
+        {
+            "id": 16,
+            "type": "question",
+            "prompt_key": "investiga5",
+            "key": "p6",
+            "next_page": 18
+        },
+        {
+            "id": 17,
+            "type": "question",
+            "prompt_key": "investiga6",
+            "key": "p7",
+            "next_page": 18
+        },
+        {
+            "id": 18,
+            "type": "final",
+            "next_page": 6
+        }
+    ]
+}

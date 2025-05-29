@@ -1,0 +1,46 @@
+[
+  {
+    "tipo": "Golpe (golpeado) con",
+    "descripcion": "Ocurre cuando el elemento material es el que se mueve hacia la persona, siempre que dicho elemento sea manejado o accionado por el individuo, el cual se considera estático para los fines de clasificación. Ejemplo: golpe con un martillo."
+  },
+  {
+    "tipo": "Golpe (golpeado) por",
+    "descripcion": "Ocurre cuando el elemento material es el que se mueve hacia la persona, a la que también se considera estática para los fines de clasificación, pero en este caso, el material es independiente de la persona. Ejemplo: golpe por caída de objetos."
+  },
+  {
+    "tipo": "Golpe (golpeado) contra",
+    "descripcion": "Ocurre lo contrario a la situación de golpe con o por, en cuanto se considera estático al elemento material y es la persona la que se mueve hacia éste, produciéndose el \"Golpe contra\". Ejemplo: chocar con objetos que sobresalgan."
+  },
+  {
+    "tipo": "Contacto con",
+    "descripcion": "Ocurre cuando un individuo se acerca al elemento, el cual tiene la característica de provocar daño con esfuerzo menor. Ejemplo: contacto con electricidad, con cuerpos cortantes, sustancias químicas, cuerpos calientes, etc."
+  },
+  {
+    "tipo": "Contacto por",
+    "descripcion": "Ocurre de manera contraria al tipo \"contacto con\", en el sentido que es ahora el elemento material el que se acerca al individuo, al que con esfuerzo menor le provoca el daño por proyección de sustancias. Ejemplo: salpicadura de líquidos calientes o cáusticos."
+  },
+  {
+    "tipo": "Caída al mismo nivel",
+    "descripcion": "Ocurre cuando la persona cae en la misma superficie en que está parado o desplazándose."
+  },
+  {
+    "tipo": "Caída a distinto nivel",
+    "descripcion": "Ocurre cuando la persona cae en una superficie ubicada más debajo de la que está parado o desplazándose."
+  },
+  {
+    "tipo": "Atrapamiento",
+    "descripcion": "Consiste en la retención o compresión parcial de la persona entre dos elementos materiales, uno de los cuales converge hacia el otro, o ambos entre sí. En este caso los movimientos relativos pueden ser indistintamente en uno u otro sentido. Ejemplo: mano atrapada por un engranaje."
+  },
+  {
+    "tipo": "Aprisionamiento",
+    "descripcion": "Ocurre cuando una persona o parte de su cuerpo es retenida o confinada en un espacio o recinto cerrado. Ejemplo: en cajones, etc."
+  },
+  {
+    "tipo": "Sobreesfuerzo",
+    "descripcion": "Ocurre cuando la capacidad física del individuo es superada por la reacción que éste ejerce contra una fuerza externa. En este caso la fuerza es esencialmente estática. Ejemplo: operaciones de manejo manual de materiales."
+  },
+  {
+    "tipo": "Exposición a",
+    "descripcion": "Consiste en la permanencia de una persona en un ambiente en que existe una cantidad masiva de una sustancia agresiva o tóxica o ciertas formas de radiaciones agresivas. Los efectos deben ser inmediatos o a corto plazo para distinguir el caso de una enfermedad profesional. Este tipo de accidente se caracteriza por la ausencia de movimientos relativos. Ejemplo: radiación ultravioleta, radiación infrarroja, intoxicación por monóxido de carbono."
+  }
+]
